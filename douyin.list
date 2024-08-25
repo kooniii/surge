@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,zhihu.com
 IP-CIDR,103.41.167.0/24,no-resolve
 IP-CIDR,118.89.204.198/23,REJECT,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/40,REJECT,no-resolve
-DOMAIN,api5-normal-m-?.amemv.com
+DOMAIN,api5-normal-m-??.amemv.com
 DOMAIN-KEYWORD,core-c-lq
 DOMAIN-KEYWORD,core-lq
 DOMAIN-KEYWORD,normal-c-lq
